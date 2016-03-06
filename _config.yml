@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.1236559
+typography_spectrum: 0.4928315
 color:
   saturation: 0.625448
   brandStrength: 0.5967742
-  lightness: 0.5698925
+  rhythmicContrast: 0.7150851
   brandColors:
     - '#280C28'
     - '#774B4B'
     - '#BD9A7F'
     - '#D8BDA2'
     - '#FCFCFB'
-  rhythmicContrast: 0.7150851
+  lightness: 0.5698925
 layout_spectrum: 0.5788531
 name: 'Spencer King: Comedian'
